@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ishmaelthedestroyer/express-server/issues"
   },
-  "homepage": "https://github.com/ishmaelthedestroyer/express-server"
+  "homepage": "https://github.com/ishmaelthedestroyer/express-server",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
