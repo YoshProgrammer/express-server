@@ -1,0 +1,19 @@
+{
+  "name": "express-server",
+  "version": "0.0.0",
+  "description": "Basic Node Express server to serve a website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ishmaelthedestroyer/express-server.git"
+  },
+  "author": "ishmaelthedestroyer <ishmaelthedestroyer@gmail.com> (http://ishmaelthedestroyer.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishmaelthedestroyer/express-server/issues"
+  },
+  "homepage": "https://github.com/ishmaelthedestroyer/express-server"
+}
